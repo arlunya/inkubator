@@ -1,0 +1,20 @@
+<WCH v="2">
+  <item n="RA1_bit" r="0" s="False" e="False" i="250"/>
+  <item n="FARG_menu_temp_sp" r="3" s="True" e="True" i="293"/>
+  <item n="main_sptemp_L0" r="3" s="True" e="False" i="309"/>
+  <item n="menu_temp_f_temp_L0" r="3" s="True" e="False" i="294"/>
+  <item n="menu_temp_f_temp1_L0" r="3" s="True" e="False" i="295"/>
+  <item n="RA2_bit" r="0" s="False" e="False" i="249"/>
+  <item n="RA3_bit" r="0" s="False" e="False" i="248"/>
+  <item n="main_spmoisure_L0" r="0" s="True" e="False" i="305"/>
+  <item n="main_sppovorot_L0" r="0" s="True" e="False" i="306"/>
+  <item n="FARG_menu_moisure_sp" r="0" s="True" e="False" i="299"/>
+  <item n="FARG_menu_povorot_sp" r="0" s="True" e="False" i="302"/>
+  <item n="EEADR" r="0" s="False" e="False" i="58"/>
+  <item n="EEADRH" r="0" s="False" e="False" i="60"/>
+  <item n="EECON1" r="0" s="False" e="False" i="61"/>
+  <item n="EECON2" r="0" s="False" e="False" i="62"/>
+  <item n="EEDATA" r="0" s="False" e="False" i="57"/>
+  <item n="EEDATA" r="0" s="False" e="False" i="57"/>
+  <item n="EEDATH" r="0" s="False" e="False" i="59"/>
+</WCH>
